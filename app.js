@@ -1,0 +1,1 @@
+console.log('HELLO wolrd from deployed docker image');
